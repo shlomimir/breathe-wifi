@@ -1,0 +1,50 @@
+Breath Wifi
+
+Modified wifi access point, "hacking" peoples phone to suggest disconecting from the phone and being with themselves or others.
+
+Description:
+Raspberry pi linux server, using proxy server, splash page, etc. to subsitute online access with messages or games suggesting users disconnect and be present or engage with others in the public space.
+
+Parts:
+BASIC
+1. Raspberry pi 3 with wifi/other pi with wifi dongle (pi zero W would be nice if it were available)
+2. Enclosure
+3. Ethernet cable
+4G No Acces Point
+4. Android phone with 4g connection, wifi, hotspot enabled
+5. Cable?
+
+Scenario 1 - "Park"
+1. Install box in public location, name (see below)
+2. Wifi name meaningful and inviting, e.g. Free Wifi (Breath)
+3. User arrives at public space, searches for wifi or is prompted by phone that there is a free wifi access point
+4. User connects to access point
+Options -
+* Splash page is a mindfulness intervention
+* Phone connects directly, proxy server replaces images with Mindfullness memes
+* Phone connects, but occasionaly stops service and replaces it with mindfulness intervention
+* Splash page is mindfulness intervention that you must complete to recieve internet access
+* Require login, connect as usual, recieve messages from chat bot
+* Share location and message to connect
+
+Scenario 2 - "Coffee Shop"
+* Create a partnership with coffee shop (library/art gallery/shop/whatever) to install box and connect to internet
+* Same as above or/
+* Location could have predetermined times where wifi stops and is replaced with message to talk to each other or breath
+* Sign on location indicating it is mindful/aware? Breath
+
+Mindfulness Interventions
+* Breathing excersize
+* meditation excersize, guided, etc.
+* questioning of phone use
+* why are you connecting
+* Do nothing for X time
+* Place to write what is on your mind and have it disappear, not on social network
+* Link to app like headspace/calm
+
+Places to install
+1. Public Park (benc, tree, gazibo?)
+2. Bus stop
+3. City plaza
+4. Coffee Shop
+5. Post office
